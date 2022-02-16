@@ -1,4 +1,4 @@
-## Aplicação de Banco de Dados de Universidade
+## Aplicação de Banco de Dados em uma Universidade
 
 Cenário: Você é Administrador de Banco de Dados de uma universidade e precisa criar um aplicativo para gerenciar as matrículas e o saldo dos alunos. 
 Sua inscrição deve fazer o seguinte: 
